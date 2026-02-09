@@ -87,7 +87,7 @@ print(f"Predicted Marks for studying {hours} hours = {predicted_marks[0]:.2f}")
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 <img width="991" height="503" alt="Screenshot 2026-02-09 102515" src="https://github.com/user-attachments/assets/93caf6b0-83dc-410a-8774-dd8ac48ac978" />
 <img width="876" height="619" alt="Screenshot 2026-02-09 102526" src="https://github.com/user-attachments/assets/278fb897-aa6a-429f-92a3-fc2534ad8fe8" />
 
